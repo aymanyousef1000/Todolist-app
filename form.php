@@ -129,6 +129,7 @@
     <div>
         <a href='insert.php' type="button" class="add btn btn-success">Add Task</a>
     <div>
+    <br><br>
 </body>
 
 </html>
